@@ -1,0 +1,10 @@
+﻿Create a python virtual env and run the following commands:
+
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+Hit the api given in the collection :
+https://www.getpostman.com/collections/0f7a68c4f87ef5e373fb
+

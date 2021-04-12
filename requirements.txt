@@ -1,0 +1,8 @@
+﻿Django==3.0.6
+django-model-utils==4.0.0
+django-mysql==3.8.1
+djangorestframework==3.11.0
+PyMySQL==0.10.0
+pytz==2020.1
+sqlparse==0.3.1
+
